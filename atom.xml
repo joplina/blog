@@ -3,11 +3,11 @@
   <title>Chenxi Qian&#39;s Blog</title>
   
   
-  <link href="http://blog.chenxiqian.com/atom.xml" rel="self"/>
+  <link href="http://cqian.org/blog/atom.xml" rel="self"/>
   
-  <link href="http://blog.chenxiqian.com/"/>
+  <link href="http://cqian.org/blog/"/>
   <updated>2018-09-13T02:59:40.000Z</updated>
-  <id>http://blog.chenxiqian.com/</id>
+  <id>http://cqian.org/blog/</id>
   
   <author>
     <name>Chenxi Qian</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Slowly Slowly We Go Further</title>
-    <link href="http://blog.chenxiqian.com/2018/08/26/piano-piano-va-lontano/"/>
-    <id>http://blog.chenxiqian.com/2018/08/26/piano-piano-va-lontano/</id>
+    <link href="http://cqian.org/blog/2018/08/26/piano-piano-va-lontano/"/>
+    <id>http://cqian.org/blog/2018/08/26/piano-piano-va-lontano/</id>
     <published>2018-08-27T03:49:25.000Z</published>
     <updated>2018-09-13T02:59:40.000Z</updated>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Arizona Spring</title>
-    <link href="http://blog.chenxiqian.com/2017/08/05/Arizona%20Spring/"/>
-    <id>http://blog.chenxiqian.com/2017/08/05/Arizona%20Spring/</id>
+    <link href="http://cqian.org/blog/2017/08/05/Arizona%20Spring/"/>
+    <id>http://cqian.org/blog/2017/08/05/Arizona%20Spring/</id>
     <published>2017-08-06T01:27:45.000Z</published>
     <updated>2017-09-05T00:21:51.000Z</updated>
     
@@ -57,8 +57,8 @@
   
   <entry>
     <title>On Minimalism</title>
-    <link href="http://blog.chenxiqian.com/2017/03/28/On%20Minimalism/"/>
-    <id>http://blog.chenxiqian.com/2017/03/28/On%20Minimalism/</id>
+    <link href="http://cqian.org/blog/2017/03/28/On%20Minimalism/"/>
+    <id>http://cqian.org/blog/2017/03/28/On%20Minimalism/</id>
     <published>2017-03-28T11:03:10.000Z</published>
     <updated>2017-03-29T21:48:07.000Z</updated>
     
@@ -77,8 +77,8 @@
   
   <entry>
     <title>Christmas 2016</title>
-    <link href="http://blog.chenxiqian.com/2016/12/13/Christmas2016/"/>
-    <id>http://blog.chenxiqian.com/2016/12/13/Christmas2016/</id>
+    <link href="http://cqian.org/blog/2016/12/13/Christmas2016/"/>
+    <id>http://cqian.org/blog/2016/12/13/Christmas2016/</id>
     <published>2016-12-13T11:16:15.000Z</published>
     <updated>2017-01-14T21:48:39.000Z</updated>
     
@@ -97,8 +97,8 @@
   
   <entry>
     <title>家的味道</title>
-    <link href="http://blog.chenxiqian.com/2016/11/28/feels-like-home/"/>
-    <id>http://blog.chenxiqian.com/2016/11/28/feels-like-home/</id>
+    <link href="http://cqian.org/blog/2016/11/28/feels-like-home/"/>
+    <id>http://cqian.org/blog/2016/11/28/feels-like-home/</id>
     <published>2016-11-29T03:39:15.000Z</published>
     <updated>2016-12-05T04:31:03.000Z</updated>
     
@@ -114,8 +114,8 @@
   
   <entry>
     <title>Lights</title>
-    <link href="http://blog.chenxiqian.com/2016/05/28/Lights/"/>
-    <id>http://blog.chenxiqian.com/2016/05/28/Lights/</id>
+    <link href="http://cqian.org/blog/2016/05/28/Lights/"/>
+    <id>http://cqian.org/blog/2016/05/28/Lights/</id>
     <published>2016-05-29T02:39:15.000Z</published>
     <updated>2016-10-26T21:30:13.000Z</updated>
     
@@ -131,8 +131,8 @@
   
   <entry>
     <title>西班牙九日</title>
-    <link href="http://blog.chenxiqian.com/2016/01/20/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B9%9D%E6%97%A5/"/>
-    <id>http://blog.chenxiqian.com/2016/01/20/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B9%9D%E6%97%A5/</id>
+    <link href="http://cqian.org/blog/2016/01/20/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B9%9D%E6%97%A5/"/>
+    <id>http://cqian.org/blog/2016/01/20/%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B9%9D%E6%97%A5/</id>
     <published>2016-01-21T01:39:15.000Z</published>
     <updated>2016-12-05T04:27:32.000Z</updated>
     
@@ -148,8 +148,8 @@
   
   <entry>
     <title>The Sunshine State</title>
-    <link href="http://blog.chenxiqian.com/2015/01/11/The-Sunshine-State/"/>
-    <id>http://blog.chenxiqian.com/2015/01/11/The-Sunshine-State/</id>
+    <link href="http://cqian.org/blog/2015/01/11/The-Sunshine-State/"/>
+    <id>http://cqian.org/blog/2015/01/11/The-Sunshine-State/</id>
     <published>2015-01-12T03:39:15.000Z</published>
     <updated>2016-10-26T21:32:06.000Z</updated>
     
@@ -168,14 +168,14 @@
     
     
     
-    <category term="essay" scheme="http://blog.chenxiqian.com/tags/essay/"/>
+    <category term="essay" scheme="http://cqian.org/blog/tags/essay/"/>
     
   </entry>
   
   <entry>
     <title>人与城市</title>
-    <link href="http://blog.chenxiqian.com/2014/12/20/%E4%BA%BA%E4%B8%8E%E5%9F%8E%E5%B8%82/"/>
-    <id>http://blog.chenxiqian.com/2014/12/20/%E4%BA%BA%E4%B8%8E%E5%9F%8E%E5%B8%82/</id>
+    <link href="http://cqian.org/blog/2014/12/20/%E4%BA%BA%E4%B8%8E%E5%9F%8E%E5%B8%82/"/>
+    <id>http://cqian.org/blog/2014/12/20/%E4%BA%BA%E4%B8%8E%E5%9F%8E%E5%B8%82/</id>
     <published>2014-12-21T01:39:15.000Z</published>
     <updated>2016-10-26T21:35:10.000Z</updated>
     
@@ -193,8 +193,8 @@
   
   <entry>
     <title>品味苏州 – a Chronological Collection</title>
-    <link href="http://blog.chenxiqian.com/2014/10/01/taste-of-suzhou/"/>
-    <id>http://blog.chenxiqian.com/2014/10/01/taste-of-suzhou/</id>
+    <link href="http://cqian.org/blog/2014/10/01/taste-of-suzhou/"/>
+    <id>http://cqian.org/blog/2014/10/01/taste-of-suzhou/</id>
     <published>2014-10-01T23:39:15.000Z</published>
     <updated>2022-11-13T22:30:15.601Z</updated>
     
@@ -213,8 +213,8 @@
   
   <entry>
     <title>Where Legends Begin</title>
-    <link href="http://blog.chenxiqian.com/2014/08/05/where-legends-begin/"/>
-    <id>http://blog.chenxiqian.com/2014/08/05/where-legends-begin/</id>
+    <link href="http://cqian.org/blog/2014/08/05/where-legends-begin/"/>
+    <id>http://cqian.org/blog/2014/08/05/where-legends-begin/</id>
     <published>2014-08-05T23:39:15.000Z</published>
     <updated>2016-10-25T04:32:38.000Z</updated>
     
@@ -235,8 +235,8 @@
   
   <entry>
     <title>踏实的平淡</title>
-    <link href="http://blog.chenxiqian.com/2014/07/19/%E8%B8%8F%E5%AE%9E%E7%9A%84%E5%B9%B3%E6%B7%A1/"/>
-    <id>http://blog.chenxiqian.com/2014/07/19/%E8%B8%8F%E5%AE%9E%E7%9A%84%E5%B9%B3%E6%B7%A1/</id>
+    <link href="http://cqian.org/blog/2014/07/19/%E8%B8%8F%E5%AE%9E%E7%9A%84%E5%B9%B3%E6%B7%A1/"/>
+    <id>http://cqian.org/blog/2014/07/19/%E8%B8%8F%E5%AE%9E%E7%9A%84%E5%B9%B3%E6%B7%A1/</id>
     <published>2014-07-20T00:39:15.000Z</published>
     <updated>2016-10-25T04:34:42.000Z</updated>
     
@@ -256,8 +256,8 @@
   
   <entry>
     <title>一个还在漂泊的人所理解的家和旅行</title>
-    <link href="http://blog.chenxiqian.com/2013/09/29/%E4%B8%80%E4%B8%AA%E8%BF%98%E5%9C%A8%E6%BC%82%E6%B3%8A%E7%9A%84%E4%BA%BA%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E5%AE%B6%E5%92%8C%E6%97%85%E8%A1%8C/"/>
-    <id>http://blog.chenxiqian.com/2013/09/29/%E4%B8%80%E4%B8%AA%E8%BF%98%E5%9C%A8%E6%BC%82%E6%B3%8A%E7%9A%84%E4%BA%BA%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E5%AE%B6%E5%92%8C%E6%97%85%E8%A1%8C/</id>
+    <link href="http://cqian.org/blog/2013/09/29/%E4%B8%80%E4%B8%AA%E8%BF%98%E5%9C%A8%E6%BC%82%E6%B3%8A%E7%9A%84%E4%BA%BA%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E5%AE%B6%E5%92%8C%E6%97%85%E8%A1%8C/"/>
+    <id>http://cqian.org/blog/2013/09/29/%E4%B8%80%E4%B8%AA%E8%BF%98%E5%9C%A8%E6%BC%82%E6%B3%8A%E7%9A%84%E4%BA%BA%E6%89%80%E7%90%86%E8%A7%A3%E7%9A%84%E5%AE%B6%E5%92%8C%E6%97%85%E8%A1%8C/</id>
     <published>2013-09-30T00:39:15.000Z</published>
     <updated>2016-10-26T21:29:45.000Z</updated>
     
@@ -275,8 +275,8 @@
   
   <entry>
     <title>在古巴的日子</title>
-    <link href="http://blog.chenxiqian.com/2013/01/20/%E5%9C%A8%E5%8F%A4%E5%B7%B4%E7%9A%84%E6%97%A5%E5%AD%90/"/>
-    <id>http://blog.chenxiqian.com/2013/01/20/%E5%9C%A8%E5%8F%A4%E5%B7%B4%E7%9A%84%E6%97%A5%E5%AD%90/</id>
+    <link href="http://cqian.org/blog/2013/01/20/%E5%9C%A8%E5%8F%A4%E5%B7%B4%E7%9A%84%E6%97%A5%E5%AD%90/"/>
+    <id>http://cqian.org/blog/2013/01/20/%E5%9C%A8%E5%8F%A4%E5%B7%B4%E7%9A%84%E6%97%A5%E5%AD%90/</id>
     <published>2013-01-21T01:39:15.000Z</published>
     <updated>2016-10-26T21:27:39.000Z</updated>
     
@@ -293,8 +293,8 @@
   
   <entry>
     <title>2012结束前我想记得的67件事</title>
-    <link href="http://blog.chenxiqian.com/2012/12/31/2012%E7%BB%93%E6%9D%9F%E5%89%8D%E6%88%91%E6%83%B3%E8%AE%B0%E5%BE%97%E7%9A%8467%E4%BB%B6%E4%BA%8B/"/>
-    <id>http://blog.chenxiqian.com/2012/12/31/2012%E7%BB%93%E6%9D%9F%E5%89%8D%E6%88%91%E6%83%B3%E8%AE%B0%E5%BE%97%E7%9A%8467%E4%BB%B6%E4%BA%8B/</id>
+    <link href="http://cqian.org/blog/2012/12/31/2012%E7%BB%93%E6%9D%9F%E5%89%8D%E6%88%91%E6%83%B3%E8%AE%B0%E5%BE%97%E7%9A%8467%E4%BB%B6%E4%BA%8B/"/>
+    <id>http://cqian.org/blog/2012/12/31/2012%E7%BB%93%E6%9D%9F%E5%89%8D%E6%88%91%E6%83%B3%E8%AE%B0%E5%BE%97%E7%9A%8467%E4%BB%B6%E4%BA%8B/</id>
     <published>2013-01-01T04:39:15.000Z</published>
     <updated>2016-10-25T04:14:35.000Z</updated>
     
@@ -314,8 +314,8 @@
   
   <entry>
     <title>加拿大适合技术公司生存吗</title>
-    <link href="http://blog.chenxiqian.com/2012/11/21/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%80%82%E5%90%88%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8%E7%94%9F%E5%AD%98%E5%90%97/"/>
-    <id>http://blog.chenxiqian.com/2012/11/21/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%80%82%E5%90%88%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8%E7%94%9F%E5%AD%98%E5%90%97/</id>
+    <link href="http://cqian.org/blog/2012/11/21/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%80%82%E5%90%88%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8%E7%94%9F%E5%AD%98%E5%90%97/"/>
+    <id>http://cqian.org/blog/2012/11/21/%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%80%82%E5%90%88%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8%E7%94%9F%E5%AD%98%E5%90%97/</id>
     <published>2012-11-22T01:39:15.000Z</published>
     <updated>2016-10-25T04:17:06.000Z</updated>
     
@@ -335,8 +335,8 @@
   
   <entry>
     <title>3D打印机与硬件复兴</title>
-    <link href="http://blog.chenxiqian.com/2012/10/29/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E4%B8%8E%E7%A1%AC%E4%BB%B6%E5%A4%8D%E5%85%B4/"/>
-    <id>http://blog.chenxiqian.com/2012/10/29/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E4%B8%8E%E7%A1%AC%E4%BB%B6%E5%A4%8D%E5%85%B4/</id>
+    <link href="http://cqian.org/blog/2012/10/29/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E4%B8%8E%E7%A1%AC%E4%BB%B6%E5%A4%8D%E5%85%B4/"/>
+    <id>http://cqian.org/blog/2012/10/29/3D%E6%89%93%E5%8D%B0%E6%9C%BA%E4%B8%8E%E7%A1%AC%E4%BB%B6%E5%A4%8D%E5%85%B4/</id>
     <published>2012-10-30T00:39:15.000Z</published>
     <updated>2016-10-26T21:39:03.000Z</updated>
     
@@ -356,8 +356,8 @@
   
   <entry>
     <title>给大家讲几个故事吧</title>
-    <link href="http://blog.chenxiqian.com/2012/05/24/%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AE%B2%E5%87%A0%E4%B8%AA%E6%95%85%E4%BA%8B%E5%90%A7/"/>
-    <id>http://blog.chenxiqian.com/2012/05/24/%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AE%B2%E5%87%A0%E4%B8%AA%E6%95%85%E4%BA%8B%E5%90%A7/</id>
+    <link href="http://cqian.org/blog/2012/05/24/%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AE%B2%E5%87%A0%E4%B8%AA%E6%95%85%E4%BA%8B%E5%90%A7/"/>
+    <id>http://cqian.org/blog/2012/05/24/%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AE%B2%E5%87%A0%E4%B8%AA%E6%95%85%E4%BA%8B%E5%90%A7/</id>
     <published>2012-05-25T00:39:15.000Z</published>
     <updated>2016-10-26T21:37:00.000Z</updated>
     
